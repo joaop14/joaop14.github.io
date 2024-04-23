@@ -1,0 +1,11 @@
+div {
+  height: 200px;
+}
+
+.linear {
+  background-image: linear-gradient(to right, #009638, #f6d800, #062672);
+}
+
+.radial {
+  background-image: radial-gradient(circle, #009638, #f6d800, #062672);
+}
